@@ -1,0 +1,6 @@
+{
+  "name": "1-sanlı Qánigelestirilgen mektep-internatı",
+  "description": "Nókis qalası 1-sanlı Qánigelestirilgen mektep-internatınıń rásmiy veb-saytı. Bilim, tárbiya hám keleshekke jol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
